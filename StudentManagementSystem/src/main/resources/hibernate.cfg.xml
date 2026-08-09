@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 5.3//EN"
+        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+
+        <!-- JDBC connection settings -->
+        <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
+        <property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/StudentManagementSystem</property>
+        <property name="hibernate.connection.username">postgres</property>
+        <property name="hibernate.connection.password">13092004</property>
+
+        <!-- SQL dialect -->
+        <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
+
+        <!-- Echo generated SQL to console -->
+        <property name="hibernate.show_sql">true</property>
+        <property name="hibernate.format_sql">true</property>
+
+        <!-- Auto-create/update tables. Use "update" during development. -->
+        <property name="hibernate.hbm2ddl.auto">update</property>
+
+        <!-- Mapped entity classes -->
+        <mapping class="com.sms.entity.User"/>
+        <mapping class="com.sms.entity.Student"/>
+
+    </session-factory>
+</hibernate-configuration>
