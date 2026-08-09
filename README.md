@@ -148,9 +148,9 @@ or a properties file excluded from version control instead.
 ## Screenshots
 
 ### Login Page
-![Login Page](<img width="792" height="823" alt="Screenshot 2026-08-09 232009" src="https://github.com/user-attachments/assets/72786355-152c-469c-b12a-9ab771facd3e" />
-)
+<img width="792" height="823" alt="Screenshot 2026-08-09 232009" src="https://github.com/user-attachments/assets/9f457add-4ce2-4b13-83ea-287c4a08469b" />
+
 
 ### Dashboard — Student Records
-![Dashboard](<img width="1861" height="857" alt="Screenshot 2026-08-09 232605" src="https://github.com/user-attachments/assets/4003d964-7773-4aca-9f4a-e3720cfc10cd" />
-)
+<img width="1861" height="857" alt="Screenshot 2026-08-09 232605" src="https://github.com/user-attachments/assets/9868a834-97fc-44fa-ab8a-3749b20d7b9e" />
+
