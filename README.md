@@ -1,4 +1,4 @@
-# Student Management System
+# 🎓Student Management System
 
 A full-stack web app built with **Core Java, Servlets, JSP, and Hibernate (ORM)**, backed by MySQL.
 Includes a styled login page (session-based auth), and full CRUD (Create, Read, Update, Delete,
@@ -153,4 +153,8 @@ or a properties file excluded from version control instead.
 
 ### Dashboard — Student Records
 <img width="1861" height="857" alt="Screenshot 2026-08-09 232605" src="https://github.com/user-attachments/assets/9868a834-97fc-44fa-ab8a-3749b20d7b9e" />
+
+### Add Student Page
+<img width="1898" height="862" alt="Screenshot 2026-08-10 150252" src="https://github.com/user-attachments/assets/2e7dbdd5-ba59-442d-80e8-774b61e46467" />
+
 
